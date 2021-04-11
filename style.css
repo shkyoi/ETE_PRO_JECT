@@ -1,0 +1,13 @@
+body {
+    background-image: url(cobhid.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.div_blue {
+    background-color: blue;
+    color: aliceblue;
+    margin-left: 500px;
+    margin-right: 500px;
+}
